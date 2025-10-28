@@ -13,7 +13,7 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 #include <stdint.h>
-#include <sys/random.h>  // getentropy on Linux; on macOS <random> is different
+#include <sys/random.h>
 
 #include "protocol.hpp"
 
