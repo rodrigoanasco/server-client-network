@@ -1,0 +1,6 @@
+src/* linguist-language=C++
+include/* linguist-language=C++
+
+CMakeLists.txt linguist-detectable=false
+*.cmake linguist-detectable=false
+*.sh linguist-detectable=false

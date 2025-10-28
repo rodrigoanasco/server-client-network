@@ -1,0 +1,58 @@
+# Build directories
+build/
+bin/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+
+# Logs and runtime files
+*.log
+*.pid
+*.tmp
+
+# Test artifacts
+*.txt
+*.csv
+*.dat
+*.log.*
+logs/
+*.log.txt
+*.log.old
+*.log.*
+
+# Backup / temporary files
+*~
+*.swp
+*.swo
+*.bak
+*.old
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated files from build scripts
+compile_commands.json
+Makefile
+cmake_install.cmake
+
+# Shell scripts cache
+*.sh~
+*.sh.save
