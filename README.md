@@ -119,6 +119,7 @@ This ensures deterministic and consistent termination across distributed partici
 
 Project Structure
 -----------------
+```
 GroupChat/
 │
 ├── include/
@@ -129,7 +130,7 @@ GroupChat/
 │   └── client.cpp
 │
 └── CMakeLists.txt
-
+```
 
 Technologies & Concepts
 -----------------------
@@ -172,7 +173,7 @@ Future Improvements
 
 Author
 -------
-Rodrigo Añasco
-Computing Science Student, Simon Fraser University
-Burnaby, BC
+Rodrigo Añasco <br/>
+Computing Science Student, Simon Fraser University <br/>
+Burnaby, BC <br/>
 github.com/rodrigoanasco
