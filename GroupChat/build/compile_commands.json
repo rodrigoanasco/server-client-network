@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/rodrigo/personal_proyects/server-client-network/GroupChat/build",
+  "command": "/usr/bin/c++  -I/home/rodrigo/personal_proyects/server-client-network/GroupChat/include -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/server.dir/src/server.cpp.o -c /home/rodrigo/personal_proyects/server-client-network/GroupChat/src/server.cpp",
+  "file": "/home/rodrigo/personal_proyects/server-client-network/GroupChat/src/server.cpp"
+},
+{
+  "directory": "/home/rodrigo/personal_proyects/server-client-network/GroupChat/build",
+  "command": "/usr/bin/c++  -I/home/rodrigo/personal_proyects/server-client-network/GroupChat/include -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/client.dir/src/client.cpp.o -c /home/rodrigo/personal_proyects/server-client-network/GroupChat/src/client.cpp",
+  "file": "/home/rodrigo/personal_proyects/server-client-network/GroupChat/src/client.cpp"
+}
+]

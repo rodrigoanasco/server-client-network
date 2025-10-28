@@ -1,0 +1,4 @@
+/home/rodrigo/personal_proyects/server-client-network/GroupChat/build/CMakeFiles/server.dir
+/home/rodrigo/personal_proyects/server-client-network/GroupChat/build/CMakeFiles/client.dir
+/home/rodrigo/personal_proyects/server-client-network/GroupChat/build/CMakeFiles/edit_cache.dir
+/home/rodrigo/personal_proyects/server-client-network/GroupChat/build/CMakeFiles/rebuild_cache.dir
